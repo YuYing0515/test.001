@@ -1,1 +1,2 @@
 printf("Hello GitHub");
+System.out.printfln("Hello GitHub");
